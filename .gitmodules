@@ -1,8 +1,8 @@
 [submodule "Clicker-App-Server"]
-	path = Clicker-App-Server
+	path = server
 	url = https://github.com/SLO42/Clicker-App-Server.git
 	branch = server
 [submodule "Clicker-App-Client"]
-	path = Clicker-App-Client
+	path = client
 	url = https://github.com/SLO42/Clicker-App-Client.git
 	branch = main
