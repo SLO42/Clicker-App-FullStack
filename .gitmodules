@@ -1,0 +1,3 @@
+[submodule "Clicker-App-Server"]
+	path = server
+	url = https://github.com/SLO42/Clicker-App-Server.git
