@@ -6,3 +6,7 @@
 	path = client
 	url = https://github.com/SLO42/Clicker-App-Client.git
 	branch = main
+[submodule "next"]
+	path = next
+	url = https://github.com/SLO42/Clicker-App-Client.git
+	branch = nextjs
